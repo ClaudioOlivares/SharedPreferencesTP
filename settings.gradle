@@ -1,0 +1,2 @@
+rootProject.name='SharedPreferencesTP'
+include ':app'
